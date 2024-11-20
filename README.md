@@ -1,42 +1,44 @@
- # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
-  ## AIM
-       To Create an Account in AWS Set up a Root user and an IAM user.
-## PROBLEM STATEMENT
-    Explain about the Experiment.
+## CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
 
-## ALGORITHM :
+Name : Nirosha M
+Register Number: 212223110032
 
- ### Step 1:
- Create an AWS Account </br>
- ### Step 2:
- Log In as Root User </br>
- ### Step 3:
- Open IAM Management Console</br>
- ### Step 4:
- Add a New IAM User</br>
- ### Step 5:
- Configure IAM User Login</br>
- ### Step 6:
- Set Permissions for IAM User</br>
- ### Step 7:
- Review and Create IAM User</br>
- 
-## OUTPUT
+## AIM:
+To Create an Account in AWS Set up a Root user and an IAM user.
 
-### REG NUMBER:212223110032
-### NAME: Nirosha M
+## PROBLEM STATEMENT:
 
-### ROOT USER:
-![Screenshot 2024-11-17 182809](https://github.com/user-attachments/assets/1c2802e8-75ef-498f-ac82-6b0c8497e1dc)
-![Screenshot 2024-11-17 184536](https://github.com/user-attachments/assets/f8909659-e39a-42b9-9280-bab526f7994e)
+This experiment aims to guide users through the process of creating an AWS account, understanding the significance of the root user, and setting up an IAM user for everyday tasks. The root user has unrestricted access to all AWS resources, while IAM users allow for more controlled access management.
 
- ### IAM USER:
+## ALGORITHM:
 
-![Screenshot 2024-11-17 184710](https://github.com/user-attachments/assets/c2b0451e-244d-4181-b577-98ed31e2a3d4)
+```
+
+1.Create an AWS Account.
+2.Sign in as Root User.
+3.Secure Your Root User.
+4.Create an IAM User.
+5.Assign Permissions.
+
+```
+
+## OUTPUT:
+
+ROOT USER:
+
+![Screenshot (239)](https://github.com/user-attachments/assets/515725a7-1fa8-444d-94ba-9f52da19d4df)
+
+
+IAM USER:
+
+![Screenshot (238)](https://github.com/user-attachments/assets/71f2daa9-f6e5-431f-8dcb-a4b339d13e89)
+
+
+
+
 
 ## RESULT
-The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account. 
-
+ Thus, Creation of an account in AWS and Set up of Root user and an IAM user is done successfully.
 
   
 
