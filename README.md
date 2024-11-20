@@ -1,7 +1,7 @@
 ## CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
 
-Name : Nirosha M
-Register Number: 212223110032
+## Name : Nirosha M
+## Register Number: 212223110032
 
 ## AIM:
 To Create an Account in AWS Set up a Root user and an IAM user.
